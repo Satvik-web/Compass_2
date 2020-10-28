@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Z;srcH~h^p9RFZ|?V%t;">Degree</variable></variables><block type="pxt-on-start" id="+3siQU0+L2F8.()6j5(," x="20" y="20"><statement name="HANDLER"><block type="input_compass_calibrate" id="$hD%P}/z_bfj|yO:(b^1"/></statement></block><block type="device_forever" id="A`OFxQ-gW})l%Z[i7:hQ" x="225" y="20"><statement name="HANDLER"><block type="variables_set" id="`Wb3oS{SW4@@~4^}*jA9"><field name="VAR" id="Z;srcH~h^p9RFZ|?V%t;">Degree</field><value name="VALUE"><shadow type="math_number" id="4=~JvHF^k=!?iM|lfLTv"><field name="NUM">0</field></shadow><block type="device_heading" id="]Mqz6:,/2n]vo~DY]i/t"/></value></block></statement></block></xml>
